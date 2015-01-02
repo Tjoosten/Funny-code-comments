@@ -1,3 +1,4 @@
+```php
 // 
 // Dear maintainer:
 // 
@@ -8,3 +9,4 @@
 // 
 // total_hours_wasted_here = 42
 // 
+```
